@@ -4,7 +4,7 @@ Taking the Hora de Codar Next.js course, but adapting to Next 13
 ```bash
 Using {
   Website:
-    - NextJs {
+    - Next.js {
       React
       TypeScript
       Eslint
