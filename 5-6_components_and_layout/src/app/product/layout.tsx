@@ -11,7 +11,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <main className="flex min-h-screen flex-col p-12">
+    <main className="flex min-h-screen flex-col p-12 m-12 products">
       Seção de produtos
       {children}
     </main>

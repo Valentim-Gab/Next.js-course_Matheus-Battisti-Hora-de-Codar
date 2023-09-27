@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function Pants() {
   return (
-    <div>Calças</div>
+    <section className='pants'>
+      Calça
+    </section>
   )
 }

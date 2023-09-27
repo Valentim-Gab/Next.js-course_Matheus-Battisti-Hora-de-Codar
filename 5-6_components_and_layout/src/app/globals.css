@@ -26,7 +26,26 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-a {
-  text-decoration: underline;
-  color: yellow;
+header nav {
+  background-color: #222;
+}
+
+footer {
+  background-color: cadetblue;
+  color: #000;
+  font-weight: 700;
+}
+
+.shirt {
+  background-color: #444;
+}
+
+.pants {
+  background-color: blueviolet;
+}
+
+.products {
+  background-color: #222;
+  border: 1px solid white;
+  border-radius: 4em;
 }
