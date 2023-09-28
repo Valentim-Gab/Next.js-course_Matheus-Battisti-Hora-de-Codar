@@ -49,3 +49,17 @@ footer {
   border: 1px solid white;
   border-radius: 4em;
 }
+
+.title {
+  color: #fff;
+  background-image: url(/images/pattern.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 20px;
+  margin-bottom: 20px;
+  font-size: 2rem;
+  font-weight: 700;
+  width: 100%;
+  border-radius: .4em;
+  text-align: center;
+}
