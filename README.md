@@ -1,5 +1,5 @@
 # Next.js course. Matheus Battisti - Hora de Codar
-Taking the Hora de Codar Next.js course, but adapting to Next 13
+Taking the Hora de Codar Next.js course, but adapting it to Next.js 13.
 
 ```bash
 Using {

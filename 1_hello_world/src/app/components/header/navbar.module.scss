@@ -1,0 +1,17 @@
+.navbar ul {
+  display: flex;
+  gap: 1em;
+
+  a {
+    padding: 1em;
+
+    &:hover {
+      color: #ffbb33;
+    }
+
+    &.active {
+      color: #ff3333;
+    }
+  }
+}
+
